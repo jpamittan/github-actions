@@ -1,0 +1,22 @@
+name: Jays
+age: 25
+active: true
+key:
+  key: value
+  key2: 33
+  key3:
+    key: value
+    key2: 33
+array:
+  - item1
+  - item2
+  - key: value
+objectArray:
+  - key: value
+    key2: value
+  - key: value
+    key2: value
+lontText: |
+  lorem ipsum
+  dolor asit
+  amet

@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 16,
+  "window.zoomLevel": 1,
+  "workbench.statusBar.visible": false,
+  "gitlens.currentLine.enabled": false,
+  "editor.formatOnSave": true
+}
