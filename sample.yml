@@ -1,0 +1,33 @@
+name: Jays
+description: "Samples of GitHub Actions workflows."
+age: 25
+active: true
+object:
+    key_string: value
+    key_number: 33
+    key_object:
+        key_string: value
+        key_number: 33
+array:
+    - item1
+    - item2
+    - 1
+    - 2
+    - true
+    - false
+    - key: value
+objectArray:
+    - key_string: value
+      key_number: 33
+      key_object:
+          key_string: value
+          key_number: 33
+    - key_string: value_2
+      key_number: 44
+      key_object:
+          key_string: value_2
+          key_number: 44
+lontText: |
+    lorem ipsum
+    dolor asit
+    amet
