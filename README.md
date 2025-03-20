@@ -7,7 +7,7 @@ This project contains GitHub Actions workflows for learning.
 #### Built with
 
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-cb171e?style=for-the-badge&logo=yaml&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-cb171e?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
 
