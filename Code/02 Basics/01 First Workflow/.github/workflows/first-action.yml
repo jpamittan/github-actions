@@ -1,0 +1,21 @@
+name: First Workflow
+
+on: workflow_dispatch
+
+jobs:
+    run-shell-command:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Print greeting
+              run: echo "Hello world"
+            - name: multiline script
+              run: |
+                  node -v
+                  npm -v
+            - name: python commands
+              run: |
+                  import platform
+                  print(platform.processor())
+              shell: python
+            - name: Print goodbye
+              run: echo "Hello world"
