@@ -8,6 +8,7 @@ https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow
 https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/skipping-workflow-runs
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/accessing-contextual-information-about-workflow-runs#needs-context
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables
+https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables#defining-environment-variables-for-a-single-workflow
 
 https://github.com/marketplace/actions/checkout
 https://github.com/marketplace/actions/upload-a-build-artifact
