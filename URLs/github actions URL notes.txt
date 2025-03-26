@@ -10,6 +10,7 @@ https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables
 https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables#defining-environment-variables-for-a-single-workflow
 https://docs.github.com/en/actions/sharing-automations/creating-actions/creating-a-composite-action
+https://docs.github.com/en/actions/sharing-automations/creating-actions/publishing-actions-in-github-marketplace#publishing-an-action
 
 https://github.com/marketplace/actions/checkout
 https://github.com/marketplace/actions/upload-a-build-artifact
